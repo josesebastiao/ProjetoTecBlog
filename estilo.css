@@ -17,4 +17,40 @@ Aqui iremos colocar toda a formatação relativa ao layout
 
 #area-cabecalho{
     background-color: #f7b600;
+    padding: 15px;
+    text-align: center;
 }
+
+#area-logo,#area-menu{
+    padding: 10px;
+}
+
+/*
+****Formatação do Menu****
+*/
+a{
+    text-decoration: none;
+}
+a:link,a:visited{
+    color:#FFF;
+    padding:8px 12px; 
+   
+}
+a:hover{
+    color:#f7b600;
+    background: #FFF;
+
+}
+
+/*
+****Formatação em geral****
+*/
+h1{
+    color: #4e4e4e;
+    font-size: 2.5em;
+}
+
+.branco{
+    color: white;
+}
+
